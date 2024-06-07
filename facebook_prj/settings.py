@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-uo@d_%@2fbstt(!c*%th$bn6#slup3op5)8u2e5g5ux-l*n*or
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['https://git.heroku.com/social-demo.git']
 
 ASGI_APPLICATION = 'facebook_prj.asgi.application'
 
